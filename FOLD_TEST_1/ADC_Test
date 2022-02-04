@@ -1,0 +1,30 @@
+#include <stdio.h>
+
+int main () {
+
+
+
+/* local variable definition */
+int i,j,k1,k2;
+for(j=0;j<3;j++)
+{
+for(i=0;i<40;i++)
+k1=k1++;
+k2=k2++;
+/* while loop execution */
+if( k1 = 20 )
+{
+printf("value of a: %d\n", k1);
+k1==0;
+}
+if(k2=35)
+{
+printf("value of a: %d\n", k2);
+k2==0;
+}
+}
+}
+
+
+return 0;
+}
